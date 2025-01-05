@@ -6,10 +6,10 @@ Using ECMWF reanalysis data for AMY energy modelling files
 
 Numerical weather prediction data (NWP) data such as that available from
 ECMWF is very useful for obtaining reliable estimates of historic meteo
-conditions for anywhere in the world at a resolution of around 7km.
+conditions for anywhere in the world.
 
 The land reanalysis data has modelled around 30 parameters for every
-hour back to 1950.
+hour back to 1950 at a resolution of around 7km.
 
 The parameters: - 2m_dewpoint_temperature - 2m_temperature -
 soil_temperature_level_1 - snow_cover -
